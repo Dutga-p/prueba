@@ -1,0 +1,11 @@
+export { default as InputForm } from './Formulario/InputForm';
+export { default as ModalComponent } from './Formulario/ModalComponent';
+export { default as SelectForm } from './Formulario/SelectForm';
+export * from './botones/BotonExportarCSV';
+export * from './dataTable/DataTableComponent';
+export * from './toolbar/ToolbarComponent';
+export {default as BotonComponent} from './botones/BotonComponent';
+export {default as BotonEditar} from './botones/BotonEditar';
+export {default as BotonEliminar} from './botones/BotonEliminar';
+export {default as ModalConfirmar} from './modales/ModalConfirmar';
+export {default as SelectIdioma} from './SelectIdioma';

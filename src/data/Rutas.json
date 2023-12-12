@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "ruta" : "/usuarios"
+    },
+    {
+        "id": 2,
+        "ruta" : "/roles"
+    },
+    {
+        "id": 3,
+        "ruta" : "/rutas"
+    }
+]

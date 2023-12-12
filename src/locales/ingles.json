@@ -1,0 +1,21 @@
+{
+    "login": {
+        "title": "Log in",
+        "welcome": "Welcome",
+        "subtitle": "Please log in to continue",
+        "username": "Username",
+        "password": "Password",
+        "login": "Log in",
+        "usernameRequired": "Username is required",
+        "passwordRequired": "Password is required",
+        "returnStart": "Return to start page"
+    },
+    "home": {
+        "title": "Home",
+        "pageTitle": "Your Trusted Place for Vehicle Services",
+        "pageDescription": "At our dealership, we take pride in offering exceptional service to keep your vehicle in top condition. Our team of experts is ready to assist you and ensure your vehicle is in optimal condition. Whether you need routine maintenance, repairs, or custom upgrades, we are here to help!"
+    },
+    "information": {
+        "title" : "Information"
+    }
+}

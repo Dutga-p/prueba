@@ -1,0 +1,21 @@
+{
+    "login": {
+        "title": "Iniciar sesión",
+        "welcome": "Bienvenido",
+        "subtitle": "Por favor, inicie sesión para continuar",
+        "username": "usuario",
+        "password": "contraseña",
+        "login": "Iniciar sesión",
+        "usernameRequired": "El usuario es requerido",
+        "passwordRequired": "La contraseña es requerida",
+        "returnStart": "Volver al inicio"
+    },
+    "home": {
+        "title": "Inicio",
+        "pageTitle": "Tu lugar de confianza para el servicio de vehículos",
+        "pageDescription": "En nuestro concesionario, nos enorgullece ofrecer un servicio excepcional para mantener tu vehículo en las mejores condiciones. Nuestro equipo de expertos está listo para atenderte y garantizar que tu vehículo esté en óptimas condiciones. Ya sea que necesites mantenimiento de rutina, reparaciones o mejoras personalizadas, ¡estamos aquí para ayudarte!"
+    },
+    "information": {
+        "title": "Información"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "login": {
+      "title": "Conecte-se",
+      "welcome": "Bem-vindo",
+      "subtitle": "Por favor, faça login para continuar",
+      "username": "usuário",
+      "password": "senha",
+      "login": "Entrar",
+      "usernameRequired": "O nome de usuário é obrigatório",
+      "passwordRequired": "A senha é obrigatória",
+      "returnStart": "Voltar ao início"
+    },
+    "home": {
+      "title": "lar",
+      "pageTitle": "Seu Lugar de Confiança para Serviços de Veículos",
+      "pageDescription": "Em nossa concessionária, nos orgulhamos de oferecer um serviço excepcional para manter seu veículo em ótimas condições. Nossa equipe de especialistas está pronta para atendê-lo e garantir que seu veículo esteja em condições ideais. Seja para manutenção de rotina, reparos ou personalizações, estamos aqui para ajudar!"
+    },
+    "information" : {
+      "title": "Informação"
+    }
+  }

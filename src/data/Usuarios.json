@@ -1,0 +1,268 @@
+[
+    {
+      "id": 1,
+      "usuario": "pablo101820",
+      "nombre": "Juan Pablo Marin Cifuentes",
+      "correo": "juan.marin@studiof.com.co",
+      "rol": "Administrador",
+      "password" : "123",
+      "estado": true
+    },
+    {
+      "id": 2,
+      "usuario": "laura2022",
+      "nombre": "Laura Gomez",
+      "correo": "laura.gomez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 3,
+      "usuario": "carlos456",
+      "nombre": "Carlos Rodriguez",
+      "correo": "carlos.rodriguez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 4,
+      "usuario": "maria789",
+      "nombre": "Maria Sanchez",
+      "correo": "maria.sanchez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": false
+    },
+    {
+      "id": 5,
+      "usuario": "andres33",
+      "nombre": "Andres Perez",
+      "correo": "andres.perez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 6,
+      "usuario": "luisa22",
+      "nombre": "Luisa Ramirez",
+      "correo": "luisa.ramirez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 7,
+      "usuario": "ana67",
+      "nombre": "Ana Martinez",
+      "correo": "ana.martinez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": false
+    },
+    {
+      "id": 8,
+      "usuario": "felipe44",
+      "nombre": "Felipe Gonzales",
+      "correo": "felipe.gonzales@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 9,
+      "usuario": "natalia90",
+      "nombre": "Natalia Lopez",
+      "correo": "natalia.lopez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 10,
+      "usuario": "jorge55",
+      "nombre": "Jorge Torres",
+      "correo": "jorge.torres@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 11,
+      "usuario": "andrea11",
+      "nombre": "Andrea Garcia",
+      "correo": "andrea.garcia@studiof.com.co",
+      "rol": "Usuario",
+      "estado": false
+    },
+    {
+      "id": 12,
+      "usuario": "juanma32",
+      "nombre": "Juan Manuel Rodriguez",
+      "correo": "juanmanuel.rodriguez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 13,
+      "usuario": "claudia78",
+      "nombre": "Claudia Vargas",
+      "correo": "claudia.vargas@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 14,
+      "usuario": "pedro55",
+      "nombre": "Pedro Castro",
+      "correo": "pedro.castro@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 15,
+      "usuario": "sofia99",
+      "nombre": "Sofia Hernandez",
+      "correo": "sofia.hernandez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 16,
+      "usuario": "daniel17",
+      "nombre": "Daniel Ramirez",
+      "correo": "daniel.ramirez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": false
+    },
+    {
+      "id": 17,
+      "usuario": "camila77",
+      "nombre": "Camila Rodriguez",
+      "correo": "camila.rodriguez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 18,
+      "usuario": "carla23",
+      "nombre": "Carla Morales",
+      "correo": "carla.morales@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 19,
+      "usuario": "oscar88",
+      "nombre": "Oscar Perez",
+      "correo": "oscar.perez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 20,
+      "usuario": "victoria14",
+      "nombre": "Victoria Jimenez",
+      "correo": "victoria.jimenez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 21,
+      "usuario": "roberto50",
+      "nombre": "Roberto Gonzalez",
+      "correo": "roberto.gonzalez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 22,
+      "usuario": "lina26",
+      "nombre": "Lina Ramirez",
+      "correo": "lina.ramirez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": false
+    },
+    {
+      "id": 23,
+      "usuario": "andres55",
+      "nombre": "Andres Garcia",
+      "correo": "andres.garcia@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 24,
+      "usuario": "carolina89",
+      "nombre": "Carolina Gomez",
+      "correo": "carolina.gomez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 25,
+      "usuario": "jose78",
+      "nombre": "Jose Rodriguez",
+      "correo": "jose.rodriguez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 26,
+      "usuario": "luis45",
+      "nombre": "Luis Hernandez",
+      "correo": "luis.hernandez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 27,
+      "usuario": "angela31",
+      "nombre": "Angela Sanchez",
+      "correo": "angela.sanchez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 28,
+      "usuario": "carlos60",
+      "nombre": "Carlos Vargas",
+      "correo": "carlos.vargas@studiof.com.co",
+      "rol": "Usuario",
+      "estado": false
+    },
+    {
+      "id": 29,
+      "usuario": "mariana71",
+      "nombre": "Mariana Garcia",
+      "correo": "mariana.garcia@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 30,
+      "usuario": "sergio55",
+      "nombre": "Sergio Morales",
+      "correo": "sergio.morales@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 31,
+      "usuario": "andrea20",
+      "nombre": "Andrea Martinez",
+      "correo": "andrea.martinez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    },
+    {
+      "id": 32,
+      "usuario": "felipe37",
+      "nombre": "Felipe Ramirez",
+      "correo": "felipe.ramirez@studiof.com.co",
+      "rol": "Usuario",
+      "estado": false
+    },
+    {
+      "id": 33,
+      "usuario": "natalia10",
+      "nombre": "Natalia Torres",
+      "correo": "natalia.torres@studiof.com.co",
+      "rol": "Usuario",
+      "estado": true
+    }
+  ]
+  
